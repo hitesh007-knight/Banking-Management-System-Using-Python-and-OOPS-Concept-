@@ -13,34 +13,34 @@ Data is stored persistently in a JSON file (data.json), so accounts remain saved
 
 📌 Features
 
-Create a new bank account with:
+1.Create a new bank account with:
 
-Name, Age, Email, PIN
+  Name, Age, Email, PIN
 
-Randomly generated unique account number
+2.Randomly generated unique account number
 
-Deposit money (limit: ₹1 Lakh per transaction)
+3.Deposit money (limit: ₹1 Lakh per transaction)
 
-Withdraw money (with balance check)
+4.Withdraw money (with balance check)
 
-Show account details (secured with Account No. & PIN)
+5.Show account details (secured with Account No. & PIN)
 
-Update account details (Name, Email, PIN)
+6.Update account details (Name, Email, PIN)
 
-Delete account
+7.Delete account
 
 
 🛠️ Tech Stack
 
-Python 3.x
+1.Python 3.x
 
-Streamlit (for web app)
+2.Streamlit (for web app)
 
-JSON (for storage)
+3.JSON (for storage)
 
-Random & String (for account number generation)
+4.Random & String (for account number generation)
 
-Pathlib (for file handling)
-Persistent storage using data.json
+5.Pathlib (for file handling)
+  Persistent storage using data.json
 
-Streamlit App UI for user-friendly web interface
+6.Streamlit App UI for user-friendly web interface
