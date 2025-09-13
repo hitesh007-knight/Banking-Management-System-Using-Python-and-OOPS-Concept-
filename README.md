@@ -1,3 +1,6 @@
+## 🏦 Bank Management System (Python + Streamlit)
+
+
 A simple Bank Management System built in Python, with two versions:
 
 Command-line interface (CLI) – Run in terminal
