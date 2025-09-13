@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Adarsh Agarwal",
+        "Age": 20,
+        "Email": "adarshagar@gmail.com",
+        "Pin": 8798,
+        "AccountNo.": "697B%Pt",
+        "Balance": 9700
+    },
+    {
+        "Name": "Sudhanshu",
+        "Age": 21,
+        "Email": "sudhanshudev@gmail.com",
+        "Pin": 4570,
+        "AccountNo.": "4NE8#y7",
+        "Balance": 0
+    },
+    {
+        "Name": "Hitesh",
+        "Age": 22,
+        "Email": "hitesh@gmail.com",
+        "Pin": 1000,
+        "AccountNo.": "PB6k1!6",
+        "Balance": 109998
+    }
+]
